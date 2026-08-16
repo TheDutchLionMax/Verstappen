@@ -1,0 +1,36 @@
+body{
+    background-color: #dff4ff;
+    text-align:center;
+    font-family:arial;
+    color:#333333;
+}
+h1{
+    color:#397fa3
+}
+h2{
+    color:#397fa3
+}
+.profile{
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+.card{
+    background-color: #bfe7fa;
+    width: 70%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+a{
+    color: #286b8c
+}
+.picture{
+    background=color:white;
+    width: 70%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 20px;
+}
